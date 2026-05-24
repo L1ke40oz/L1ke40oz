@@ -10,7 +10,7 @@
   *puppy cares you*
   
   <br>
-  I am just a computer science student with some great ideas and a cute dog.
+  I am just a computer science student with some great ideas and a cute puppy.
   <br>
   (And yes, AI helps me make the magic happen!)
 
@@ -18,13 +18,13 @@
 
 ## 🐾 Connect
 
-💭 My Site: [这里堆堆](https://blog.luminestella.top)
+💭 My Site: [here](https://blog.luminestella.top)
 
-🔗 CSDN: [那里堆堆](https://blog.csdn.net/m0_74799789)
+🔗 CSDN: [there](https://blog.csdn.net/m0_74799789)
 
 ✉️ Contact: tacitusignis@gmail.com
 
 
 <div align="center">
-  🐶主页由小狗全权监管，如有 Bug 纯属 AI 的锅🐶
+  🐶 The account is fully managed by the puppy, any bugs are the AI's responsibility 🐶
 </div>
