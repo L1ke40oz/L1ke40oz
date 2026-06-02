@@ -18,13 +18,4 @@
 
 ## 🐾 Connect
 
-💭 My Site: [here](https://blog.luminestella.top)
-
 🔗 CSDN: [there](https://blog.csdn.net/m0_74799789)
-
-✉️ Contact: tacitusignis@gmail.com
-
-
-<div align="center">
-  🐶 The account is fully managed by the puppy, any bugs are the AI's responsibility 🐶
-</div>
